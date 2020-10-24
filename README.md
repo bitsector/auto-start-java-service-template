@@ -1,6 +1,6 @@
 # auto-start-java-service
 
-This is a template for an auto-start service.
+A template for AOSP Android Java auto-start service.
 
 The service will start on BOOT_COMPLETED intent reception.
 
